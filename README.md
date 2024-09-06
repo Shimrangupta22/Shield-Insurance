@@ -26,22 +26,22 @@ The model was designed to streamline the analysis of customer demographics, poli
 ### **Home Page**
 This is the default landing page for users, providing easy navigation to other sections of the dashboard.
 
-![Home Page](https://github.com/user-attachments/assets/4c86e911-c87f-41b4-aea9-d9e95c662d8f)
+![Home Page](https://github.com/Shimrangupta22/Shield-Insurance/blob/main/assets/landing%20page.png)
 
 ### **General Overview**
 The general analysis section highlights key metrics such as revenue trends, customer demographics, and policy performance. It includes breakdowns by age group and city.
 
-![General Overview](https://github.com/user-attachments/assets/e7ed8330-e2f8-4b7d-83df-12d88e0edb2e)
+![General Overview](https://github.com/Shimrangupta22/Shield-Insurance/blob/main/assets/general%20analysis.png)
 
 ### **Sales Channel Analysis**
 This section focuses on revenue generation across different sales modes, showcasing which channels contributed the most revenue over time.
 
-![Sales Channel Analysis](https://github.com/user-attachments/assets/04575041-dfaa-4a66-961b-696c240cb9fb)
+![Sales Channel Analysis](https://github.com/Shimrangupta22/Shield-Insurance/blob/main/assets/sales%20mode%20analysis.png)
 
 ### **Age Group Performance**
 Here, we analyze revenue and customer acquisition across various age groups, including settlement estimates and policy preferences.
 
-![Age Group Performance](https://github.com/user-attachments/assets/68b72b1a-440b-48a0-840c-68b8b83a4bc6)
+![Age Group Performance](https://github.com/Shimrangupta22/Shield-Insurance/blob/main/assets/age%20group%20analysis.png)
 
 ## Insights & Recommendations
 
